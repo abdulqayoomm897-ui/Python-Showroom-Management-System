@@ -74,4 +74,4 @@ Price: 12344455
 
 ---
 
-Auther: Abdul Qayoom Mangi.
+# Auther: Abdul Qayoom Mangi.
